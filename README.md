@@ -12,3 +12,4 @@ git push --tags
 
 ## Fonts
 See https://www.behance.net/shadyaemery
+https://befonts.com/tag/woff
