@@ -8,6 +8,8 @@ git commit -m <message>
 git tag -a v<number> -m <message>
 git push
 git push --tags
+
+git tag -n99
 ```
 
 ## Fonts
